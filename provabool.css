@@ -1,0 +1,67 @@
+.tema{
+  background-image: url(bkg.jpg);
+  background-size: cover;
+}
+.box{
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 1260px;
+  height: 850px;
+  margin: auto;
+  border-radius: 10px 10px 10px 10px;
+}
+.logo{
+  height: 120px;
+  margin-top: 90px;
+}
+.text{
+  font-family: fantasy;
+  font-size: 30px;
+  color: rgb(0, 255, 0);
+  margin-top: 10px;
+}
+.barra{
+  background-color: rgba(0, 255, 0, 0.8);
+  box-sizing: border-box;
+  margin: auto;
+  width: 1000px;
+  height: 40px;
+  padding: 10px;
+}
+.centro{
+  margin: auto;
+  padding: 30px;
+  margin-left: 120px;
+
+}
+.text2{
+  color: white;
+  font-size: 24px;
+  font-family: fantasy;
+}
+.freccia{
+  color: lightgray;
+  font-family: fantasy;
+  font-size: 18px;
+  margin-top: 20px;
+}
+.carica{
+  box-sizing: border-box;
+  background-color: rgba(255, 170, 0, 0.9);
+  width: 380px;
+  height: 30px;
+  border-radius: 10px 10px 10px 10px;
+}.carica2{
+  box-sizing: border-box;
+  background-color: rgba(0, 230, 0, 0.9);
+  width: 550px;
+  height: 30px;
+  border-radius: 10px 10px 10px 10px;
+}
+.carica3{
+  box-sizing: border-box;
+  background-color: rgba(255, 0, 90, 0.9);
+  width: 130px;
+  height: 30px;
+  border-radius: 10px 10px 10px 10px;
+}
